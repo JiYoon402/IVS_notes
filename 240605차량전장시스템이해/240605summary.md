@@ -1,5 +1,5 @@
 # 차량 전장시스템 이해(240605~240610)
-## 자동차개요
+## 자동차 개요
 ### 구동 방식
   - FF: front 엔진 Front 구동
   - RR: Rear 엔진 Rear 구동
@@ -21,9 +21,12 @@
   - 지면과의 마찰력  
   - 앞:뒤=80:20
   - 마우스 실린더: 압력을 가해줌
-  - 
+    
+
 ### 클러치: 기관과 수동변속기 사이에 부착, 동력 전달/차단
   - 플라이 휠: 텐션의 관성, 크랭킹(크랭킹 축을 이용하여 기동전동기 돌림)
+   ![image](https://github.com/JiYoon402/IVS_notes/assets/90745522/b026897a-4a72-4465-a591-31dd8c39076b)
+
 #### 자동 변속기
 - 유체 클러치: 원심력에 의해 상대편 낱게 차 회전(기체)
 - 토크 컨버터: 주행저항에 따라  구동력 변환(오일)
@@ -46,8 +49,45 @@
  <img src="https://github.com/JiYoon402/IVS_notes/assets/90745522/2f0e43f9-75c0-43ab-837e-ecb29634c7e5" width="400">
 <img src="https://github.com/JiYoon402/IVS_notes/assets/90745522/ce009208-ffed-46bb-9c9c-4ec5caa0caf6" width="400">
 
+### 현가 장치
+#### 전자제어 현가장치의 제어기능
+- 프리뷰 제어
+- 스카이훅 제어
+- ECS(Electronc Control Suspension System)
+  ![image](https://github.com/JiYoon402/IVS_notes/assets/90745522/740fdce0-b13f-4bad-9b5c-9b6740139d15)
+  - TPS:trutle position sensor
+  - 차속 센서: Hall sensor
+   <img src="https://github.com/JiYoon402/IVS_notes/assets/90745522/89515399-a559-4103-b3fa-32de1f414823" width="300">
+  - 중력 가속도 센서: 에어백 작동 위해  
 
+### 조향장치
+#### 조향기구
+- 동력 조향 장치: 피스톤 이용 유압식
+- 전자제어 조향 장치: 배터리 전원 이용
+  ![image](https://github.com/JiYoon402/IVS_notes/assets/90745522/961ab7af-37f2-426a-a1aa-6f6c599ff85c)
 
+### 제동장치
+- 전자제동력 분배장치
+- ABS
+- 통합제어 TCS
+- CAN통신
+
+<br/>
+
+## 기관
+### 기관의 4가지 과정
+- 흡입
+- 압축 ->온도 상승
+- 폭발
+- 동력 발생
+
+### 기관의 주요 장치
+- 캠축, 크랭크축의 타이밍이 맞아야지 작동이 된다
+- WTS: 냉각
+  ![image](https://github.com/JiYoon402/IVS_notes/assets/90745522/e6f1bcba-ddb5-4a07-a746-81f2df5cf249)
+- 크랭크각 센서,캠축 포지션 센서: 홀센서
+- 슬틀 포지션 센서
+- 
 
 
 
