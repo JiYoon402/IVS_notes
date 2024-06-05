@@ -133,6 +133,17 @@
 - 윈드 실드이퍼(wind shield wiper): 레인 센서(포토다이오드 이용)
 - 전자제어 시간경보 장치(ETACS ; electronic, time, alarm, control, system): 각 컴퓨터로부터 정보 받아 알림/경보
   ![image](https://github.com/JiYoon402/IVS_notes/assets/90745522/33665185-33a6-4401-bfec-f4e93ac30f76)
+- 에어백
+- 능동적 후드/범 시스템
+
+### 편의 장치
+- 고속도로 주행 보조 시스템
+- 운전자 상태 감시 시스템: 카메라로 운전자 눈 추적, 졸음 감지
+- 어라운드 뷰 모니터링 시스템
+
+### 통신 장치
+- CAN 통신: 기관 컴퓨터(ECU), 자동변속기 컴퓨터(TCU) 및 구동력 제어장치(TCS) 사이에서 CAN 버스라인(CAN High와 CAN Low)을 통하여 데이터
+를 다중통신
 
   
 
