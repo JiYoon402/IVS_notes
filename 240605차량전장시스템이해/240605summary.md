@@ -57,8 +57,84 @@
   ![image](https://github.com/JiYoon402/IVS_notes/assets/90745522/740fdce0-b13f-4bad-9b5c-9b6740139d15)
   - TPS:trutle position sensor
   - 차속 센서: Hall sensor
-   <img src="https://github.com/JiYoon40림 
-  ![image](https://github.com/JiYoon402/IVS_notes/assets/90745522/1b828461-80c4-4c1d-a792-48c36d7527b1)
+   <img src="https://github.com/JiYoon402/IVS_notes/assets/90745522/89515399-a559-4103-b3fa-32de1f414823" width="300">
+  - 중력 가속도 센서: 에어백 작동 위해  
+
+### 조향장치
+#### 조향기구
+- 동력 조향 장치: 피스톤 이용 유압식
+- 전자제어 조향 장치: 배터리 전원 이용
+  ![image](https://github.com/JiYoon402/IVS_notes/assets/90745522/961ab7af-37f2-426a-a1aa-6f6c599ff85c)
+
+### 제동장치
+- 전자제동력 분배장치
+- ABS
+- 통합제어 TCS
+- CAN통신
+
+<br/>
+
+## 기관
+### 기관의 4가지 과정
+- 흡입
+- 압축 ->온도 상승
+- 폭발
+- 동력 발생
+
+### 기관의 주요 장치
+- 캠축, 크랭크축의 타이밍이 맞아야지 작동이 된다
+- WTS: 냉각
+  ![image](https://github.com/JiYoon402/IVS_notes/assets/90745522/e6f1bcba-ddb5-4a07-a746-81f2df5cf249)
+- 크랭크각 센서,캠축 포지션 센서: 홀센서
+- 슬틀 포지션 센서
+- 
+
+
+
+## 전기
+### 시동 장치
+#### 기동 전동기
+- 구성: 전동기, 솔레노이드, 오버로닝 클러치
+![image](https://github.com/JiYoon402/IVS_notes/assets/90745522/9e84cd6c-c07e-43b7-a46f-ceee1ae6f6d5)
+
+### 점화 장치
+#### HEI(High Energy Ingnotion): 고강력 점화 방식
+- 코일 이용하여 점화플러그에 불꽃 방전(변압기 원리)
+#### DLI
+- 접점식 점화장치, 트랜지스터식(npn) 점화 장치
+-  점화코일에서 점화플러그로 직접 배전
+
+### 충전 장치
+#### 충전 장치의 개요
+- 교류 발전기: 정류용 Si다이오드에 의해 직류 출력 얻음
+- 교류 발전기 조정기: 발생 전압 일정하게
+
+### 공조 시스템
+#### 냉방 장치 작동 원리
+- 사이클: 증발-> 압축-> 응축-> 팽창 (순환반복)
+![image](https://github.com/JiYoon402/IVS_notes/assets/90745522/f998fc5a-a60d-4446-bfb8-f708ffd8dfcb)
+- FATC(Full auto air con) 이용하여 제어
+  
+
+### 등화 장치
+- BCM(Body Control Module) 이용하여 제어
+![image](https://github.com/JiYoon402/IVS_notes/assets/90745522/d845675a-400a-48b4-8ede-d3134aee3b1b)
+#### 오토 라이트 장치
+![image](https://github.com/JiYoon402/IVS_notes/assets/90745522/f14baef3-eb91-476d-92d2-414c3809c488)
+
+#### 스마트 전조등
+- AFLS(적응형 전조등 시스템): 조향각 센서 이용
+- SHBA(Smart high beam assist): 이미지 센서 이용
+
+### 안전 장치
+- 방향 지시등
+- 제동등(stop lamp)
+- 후진등(back-up lamp): 변속기에 설치(통신XXXX)
+- 윈드 실드이퍼(wind shield wiper): 레인 센서(포토다이오드 이용)
+- 전자제어 시간경보 장치(ETACS ; electronic, time, alarm, control, system): 각 컴퓨터로부터 정보 받아 알림/경보
+  ![image](https://github.com/JiYoon402/IVS_notes/assets/90745522/33665185-33a6-4401-bfec-f4e93ac30f76)
+
+  
 
 
 
@@ -67,5 +143,3 @@
 
 
 
-
- 
