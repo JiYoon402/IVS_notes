@@ -57,37 +57,11 @@
   ![image](https://github.com/JiYoon402/IVS_notes/assets/90745522/740fdce0-b13f-4bad-9b5c-9b6740139d15)
   - TPS:trutle position sensor
   - 차속 센서: Hall sensor
-   <img src="https://github.com/JiYoon402/IVS_notes/assets/90745522/89515399-a559-4103-b3fa-32de1f414823" width="300">
-  - 중력 가속도 센서: 에어백 작동 위해  
+   <img src="https://github.com/JiYoon40림 
+  ![image](https://github.com/JiYoon402/IVS_notes/assets/90745522/1b828461-80c4-4c1d-a792-48c36d7527b1)
 
-### 조향장치
-#### 조향기구
-- 동력 조향 장치: 피스톤 이용 유압식
-- 전자제어 조향 장치: 배터리 전원 이용
-  ![image](https://github.com/JiYoon402/IVS_notes/assets/90745522/961ab7af-37f2-426a-a1aa-6f6c599ff85c)
 
-### 제동장치
-- 전자제동력 분배장치
-- ABS
-- 통합제어 TCS
-- CAN통신
 
-<br/>
-
-## 기관
-### 기관의 4가지 과정
-- 흡입
-- 압축 ->온도 상승
-- 폭발
-- 동력 발생
-
-### 기관의 주요 장치
-- 캠축, 크랭크축의 타이밍이 맞아야지 작동이 된다
-- WTS: 냉각
-  ![image](https://github.com/JiYoon402/IVS_notes/assets/90745522/e6f1bcba-ddb5-4a07-a746-81f2df5cf249)
-- 크랭크각 센서,캠축 포지션 센서: 홀센서
-- 슬틀 포지션 센서
-- 
 
 
 
